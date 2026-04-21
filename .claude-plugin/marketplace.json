@@ -1,0 +1,26 @@
+{
+  "name": "ecom-assistant-marketplace",
+  "owner": {
+    "name": "电商助手",
+    "email": "yuhan8239288@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "security-scan-code",
+      "source":  {
+        "source": "github",
+        "repo": "EcomAssistant/security-scan-code"
+      },
+      "description": "代码审查",
+      "version": "1.0.0"
+    },
+    {
+      "name": "demand-assistant",
+      "source": {
+        "source": "github",
+        "repo": "company/deploy-plugin"
+      },
+      "description": "需求助手"
+    }
+  ]
+}
