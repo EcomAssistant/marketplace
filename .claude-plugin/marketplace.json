@@ -7,10 +7,7 @@
   "plugins": [
     {
       "name": "security-scan-code",
-      "source":  {
-        "source": "github",
-        "repo": "EcomAssistant/security-scan-code"
-      },
+      "source": "./plugins/security-scan-code",
       "description": "代码审查",
       "version": "1.0.0"
     },
