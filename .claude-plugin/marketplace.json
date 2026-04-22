@@ -9,7 +9,7 @@
       "name": "security-scan-code",
       "source": "./plugins/security-scan-code",
       "description": "代码审查",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "name": "demand-assistant",
