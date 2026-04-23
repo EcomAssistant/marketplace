@@ -13,11 +13,9 @@
     },
     {
       "name": "demand-assistant",
-      "source": {
-        "source": "github",
-        "repo": "company/deploy-plugin"
-      },
-      "description": "需求助手"
+      "source": "./plugins/demand-assistant",
+      "description": "需求助手",
+      "version": "1.0.0"
     }
   ]
 }

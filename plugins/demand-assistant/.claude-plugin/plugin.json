@@ -1,0 +1,10 @@
+{
+  "name": "demand-assistant",
+  "version": "1.0.0",
+  "description": "需求分析助手 — 输入在线文档URL、聊天截图或需求描述，通过多轮交互澄清需求边界，自动生成结构化需求文档（Markdown）",
+  "author": {
+    "name": "PDT"
+  },
+  "license": "MIT",
+  "keywords": ["需求分析", "需求文档", "requirement", "demand", "documentation"]
+}
